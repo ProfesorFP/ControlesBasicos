@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ControlesBasicos</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnSimple">Botón simple</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+    <string name="estrella">Estrella</string>
+    <string name="btnEstrella">Click</string>
+    <string name="checkbox">Mi CheckBox</string>
+    <string name="btnRadio1">Opción 1</string>
+    <string name="btnRadio2">Opción 2</string>
+</resources>
